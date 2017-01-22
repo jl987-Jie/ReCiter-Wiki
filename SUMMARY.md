@@ -18,4 +18,5 @@
 * [Tutorial](tutorial.md)
     * [Searching PubMed article data](searching-pubmed-article-data.md)
     * [Identity metadata](identity-metadata.md)
+    * [Importing MeSH terms](importing-mesh-terms.md)
 
