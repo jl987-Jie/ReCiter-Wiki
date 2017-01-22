@@ -17,4 +17,5 @@
     * [Identity](identity.md)
 * [Tutorial](tutorial.md)
     * [Searching PubMed article data](searching-pubmed-article-data.md)
+    * [Identity metadata](identity-metadata.md)
 
