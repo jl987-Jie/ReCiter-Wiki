@@ -13,4 +13,5 @@
     * [Technical walkthrough](technical-walkthrough.md)
     * [Strategies used for disambiguation](strategies-used-for-disambiguation.md)
     * [Results of eSearch query](results-of-esearch-query.md)
+    * [Report: MeSH major terms per cluster](report-mesh-major-terms-per-cluster.md)
 
