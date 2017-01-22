@@ -1,4 +1,7 @@
 {
+    "plugins": [
+        "disqus"
+    ],
     "pluginsConfig": {
         "sharing": {
             "facebook": true,
@@ -8,6 +11,10 @@
             "instapaper": false,
             "vk": false,
             "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "disqus": {
+            "shortName": "http://disqus.com/by/disqus_4JzmjFvf2o ",
+            "useIdentifier": true
         }
     }
 }
