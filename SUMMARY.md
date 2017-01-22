@@ -21,4 +21,5 @@
     * [Importing MeSH terms](importing-mesh-terms.md)
     * [Importing PubMed article data](importing-pubmed-article-data.md)
     * [Importing Scopus article data](importing-scopus-article-data.md)
+    * [Connecting to Mongo on server](connecting-to-mongo-on-server.md)
 
