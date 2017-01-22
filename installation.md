@@ -4,13 +4,6 @@ The steps required for installing ReCiter vary depending on how you wish to use 
 
 The table below is a summary of the requirements for four different ways of using ReCiter.
 
-| Task                                                        | Java     | Git      | Maven    | Eclipse  | MongoDB with data for target UIDs |
-|-------------------------------------------------------------|----------|----------|----------|----------|-----------------------------------|
-| Run ReCiter locally, connecting to local MongoDB database   | Required | Required | Required | Optional | Required                          |
-| Run ReCiter locally, connecting to external database server | Required | Required | Required | Optional | N/A                               |
-| Install ReCiter as server and/or contribute to ReCiter code | Required | Required | Required | Required | Required                          |
-| Run on external server using browser                        | N/A      | N/A      | N/A      | N/A      | N/A                               |
-
 ## Java
 
 If you wish to run ReCiter on your local machine, you must first install Java (if it is not already installed). Alternately, you may use a browser to run an instance of ReCiter installed on a different machine accessible through your local area network or via the internet. In this case, Java is not required on your local machine. Here are instructions for installing Java, which is freely available. You will need version 8 or higher: [Java Platform, Standard Edition Development Kit (JDK)] (http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html).
