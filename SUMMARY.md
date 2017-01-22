@@ -11,4 +11,5 @@
     * [Check how often ReCiter runs](check-how-often-reciter-runs.md)
 * [Code Documentation](technical-walkthrough.md)
     * [Technical walkthrough](technical-walkthrough.md)
+    * [Strategies used for disambiguation](strategies-used-for-disambiguation.md)
 
