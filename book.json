@@ -1,7 +1,4 @@
 {
-    "plugins": [
-        "structured-toc3"
-    ],
     "pluginsConfig": {
         "sharing": {
             "facebook": true,
