@@ -3,13 +3,13 @@
 
 ```javascript```
 "identity": {
-"cwid": "wcb2001",
-"authorName": {
-"firstName": "W. clay",
-"firstInitial": "W",
-"middleName": "",
-"middleInitial": "",
-"lastName": "Bracken",
-"fullName": true
+    "cwid": "wcb2001",
+    "authorName": {
+    "firstName": "W. clay",
+    "firstInitial": "W",
+    "middleName": "",
+    "middleInitial": "",
+    "lastName": "Bracken",
+    "fullName": true
 },
 ```
