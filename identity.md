@@ -11,5 +11,5 @@
     "middleInitial": "",
     "lastName": "Bracken",
     "fullName": true
-},
+}
 ```
