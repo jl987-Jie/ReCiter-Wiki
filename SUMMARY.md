@@ -15,4 +15,6 @@
     * [Results of eSearch query](results-of-esearch-query.md)
     * [Report: MeSH major terms per cluster](report-mesh-major-terms-per-cluster.md)
     * [Identity](identity.md)
+* [Tutorial](tutorial.md)
+    * [Searching PubMed article data](searching-pubmed-article-data.md)
 
