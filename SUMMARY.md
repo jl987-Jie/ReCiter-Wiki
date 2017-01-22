@@ -10,5 +10,5 @@
     * [Check performance](check-performance.md)
     * [Check how often ReCiter runs](check-how-often-reciter-runs.md)
 * [Code Documentation](technical-walkthrough.md)
-    * Technical walkthrough
+    * [Technical walkthrough](technical-walkthrough.md)
 
