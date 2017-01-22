@@ -1,8 +1,10 @@
 Once information retrieval is complete, ReCiter employs a series of strategies to match publications to target authors.
 
+
+
 | Phase | Description and strategies |
 | :--- | :--- |
-| **0. Refine search for common names** | If, during initial retrieval, the count of candidate articles exceeds 2,000, employ a set of strategies to limit the number of results returned.[Limit by department](#limit-by-department)|
+| **0. Refine search for common names** | If, during initial retrieval, the count of candidate articles exceeds 2,000, employ a set of strategies to limit the number of results returned. |
 | **1. Cluster creation** | Independent of what is know about the target author, group articles in clusters in cases where they share distinctive characteristics. |
 | **2. Cluster selection** | Use what is known about a person \(e.g., email address\) to select matching clusters. |
 | **3. Individual article selection** | Select articles that were not picked up during cluster selection. |
