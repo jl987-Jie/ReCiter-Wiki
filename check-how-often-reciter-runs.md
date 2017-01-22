@@ -1,0 +1,1 @@
+SSH into the server and check the cron tab for the user "reciter" on the server, it will list how often the three jobs are run. One is at 12 a.m., one is at 1 a.m., and the other is at 7 a.m.

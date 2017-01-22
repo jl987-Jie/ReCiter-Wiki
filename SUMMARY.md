@@ -8,4 +8,5 @@
     * [Add articles to the gold standard for a given UID](add-articles-to-the-gold-standard-for-a-given-uid.md)
     * [Remove articles from the gold standard for a given UID](remove-articles-from-the-gold-standard-for-a-given-uid.md)
     * [Check performance](check-performance.md)
+    * [Check how often ReCiter runs](check-how-often-reciter-runs.md)
 
