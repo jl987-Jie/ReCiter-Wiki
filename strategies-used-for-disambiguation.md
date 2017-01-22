@@ -1,13 +1,6 @@
 Once information retrieval is complete, ReCiter employs a series of strategies to match publications to target authors.
 
-| Phase |Description and strategies |
-|------|----|------|
-|**0. Refine search for common names** |If, during initial retrieval, the count of candidate articles exceeds 2,000, employ a set of strategies to limit the number of results returned.<br><br><ul><li>[Limit by department](#limit-by-department)</li><li>[Limit by common affiliation](#limit-by-common-affiliation)</li><li>[Limit by institutional affiliation](#limit-by-institutional-affiliation)</li><li>[Limit by grant ID](#limit-by-grant-id)</li><li>[Limit by first full name](#limit-by-first-full-name)</li></ul>    |
-|**1. Cluster creation**     | Independent of what is know about the target author, group articles in clusters in cases where they share distinctive characteristics.<br><br><ul><li>[Seed with known articles](#seed-with-known-articles)</li><li>[Article completeness](#article-completeness)</li><li>[Coauthor clustering](#coauthor-clustering)</li><li>[Journal clustering](#journal-clustering)</li></ul> |
-|**2. Cluster selection**      |Use what is known about a person (e.g., email address) to select matching clusters.<br><br><ul><li>[Email](#email)</li><li>[Department](#department)</li><li>[Known relationship](#known-relationship)</li><li>[Common affiliation](#common-affiliation)</li></ul> |
-|**3. Individual article selection** |Select articles that were not picked up during cluster selection.<br><br><ul><li>[Common coauthor](#common-coauthor)</li><li>[Common journal](#common-journal)</li><li>[Cites, cited by, and co-citation](#cites-cited-by-and-co-citation)</li><li>[Article size](#article-size)</li></ul>   |
-|**4. Individual article removal** |Remove individual articles that are unlikely matches.<br><br><ul><li>[Degree year discrepancy](#degree-year-discrepancy)</li><li>[Remove by name](#remove-by-name)</li></ul>     |
-|**5. Matching MeSH major** |Add articles that share MeSH major terms with selected articles.<br><br><ul><li>[MeSH Major](#5-matching-mesh-major)</li></ul> |
+
 
 
 
