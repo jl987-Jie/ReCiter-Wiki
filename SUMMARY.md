@@ -7,4 +7,5 @@
     * [Run ReCiter for an individual](run-reciter-for-an-individual.md)
     * [Add articles to the gold standard for a given UID](add-articles-to-the-gold-standard-for-a-given-uid.md)
     * [Remove articles from the gold standard for a given UID](remove-articles-from-the-gold-standard-for-a-given-uid.md)
+    * [Check performance](check-performance.md)
 
