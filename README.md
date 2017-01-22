@@ -24,7 +24,7 @@
 
 ## 
 
-## The Department of Pediatrics tells you that the institution is about to hire a new hot-shot faculty member from Harvard, Dr. Andrew Schwartz, and wants to have an updated list of publications right away. 
+## The Department of Pediatrics tells you that the institution is about to hire a new hot-shot faculty member from Harvard, Dr. Andrew Schwartz, and wants to have an updated list of publications right away.
 
 ## 
 
@@ -38,7 +38,7 @@
 
 ## \* You look through the candidate articles for clues. What's the institutional affiliation? What department is listed in the affiliation string? Is a known institutional email listed? Are there any grants indexed on which A. Schwartz was listed as a co-author.
 
-## \* You're feeling especially attentive to detail, so you look at see if certain journals or co-authors names from a known publication \(where Dr. Schwartz's email is indexed\), are shared with other candidate publications. 
+## \* You're feeling especially attentive to detail, so you look at see if certain journals or co-authors names from a known publication \(where Dr. Schwartz's email is indexed\), are shared with other candidate publications.
 
 ## \* This isn't your first rodeo, so you complete this work in about 20 minutes. Good for you!
 
@@ -80,7 +80,7 @@
 
 ## \* \*\*PubMed\*\* search engine, which primarily accesses the \*\*Medline\*\* database
 
-## \* \*\*Scopus\*\* \(optional\), a bibliographic database used to harvest affiliations. 
+## \* \*\*Scopus\*\* \(optional\), a bibliographic database used to harvest affiliations.
 
 ## 
 
@@ -104,9 +104,9 @@
 
 ## 
 
-## \#\# What institutional data about authors does ReCiter use? 
+## \#\# What institutional data about authors does ReCiter use?
 
-## \* name variants \(such as nicknames, name changes, and spelling irregularities\) 
+## \* name variants \(such as nicknames, name changes, and spelling irregularities\)
 
 ## \* current and former institutional affiliations
 
@@ -136,7 +136,7 @@
 
 ## \#\#\# Running ReCiter on a local machine&lt;br&gt;
 
-## ReCiter's API may be run in a browser on any modern machine. The ReCiter server must be accessible to the local machine via a local area network or internet connection. 
+## ReCiter's API may be run in a browser on any modern machine. The ReCiter server must be accessible to the local machine via a local area network or internet connection.
 
 ## 
 
@@ -152,11 +152,11 @@
 
 ## ReCiter's accuracy \(an average of precision and recall as benchmarked against a human-defined gold standard\) has been measured at over 95% for current full-time faculty at Weill Cornell Medicine. The exact accuracy of a given person depends on a variety of factors, especially:
 
-## \* How much identity data you can provide the ReCiter algorithm 
+## \* How much identity data you can provide the ReCiter algorithm
 
 ## \* How common a person's name is
 
-## \* How prolific an author has been 
+## \* How prolific an author has been
 
 ## 
 
@@ -168,7 +168,7 @@
 
 ## 
 
-## Data on ReCiter's accuracy at Weill Cornell is available at https://figshare.com/articles/Update\_on\_ReCiter\_Author\_Disambiguation\_Engine/3750003.
+## Data on ReCiter's accuracy at Weill Cornell is available at [https://figshare.com/articles/Update\\_on\\_ReCiter\\_Author\\_Disambiguation\\_Engine/3750003](https://figshare.com/articles/Update\_on\_ReCiter\_Author\_Disambiguation\_Engine/3750003).
 
 ## 
 
@@ -184,13 +184,13 @@
 
 ## \#\# What about ORCID?
 
-## ORCID is a persistent digital identifier designed to distinguish one researcher from every other researcher. Users create an account at orcid.org and manually claim their publications. A handful of publishers now require that submitters include their ORCID ID, and there are efforts by institutions, especially libraries, to increase adoption. 
+## ORCID is a persistent digital identifier designed to distinguish one researcher from every other researcher. Users create an account at orcid.org and manually claim their publications. A handful of publishers now require that submitters include their ORCID ID, and there are efforts by institutions, especially libraries, to increase adoption.
 
 ## 
 
 ## Some issues we have noticed with ORCID:
 
-## \* There are a number of duplicate ORCID profiles. 
+## \* There are a number of duplicate ORCID profiles.
 
 ## \* The False Negative Problem: A new candidate publication appeared three months ago. Is it not in the person's ORCID profile because he didn't get around to adding it, or because he simply didn't author it?... Our administrators like to be "in the know." Ideally, we would tell them of a new authorship the day it was indexed in PubMed, so this poses a problem.
 
@@ -220,7 +220,7 @@
 
 ## &lt;br&gt;
 
-## Johnson SB, Bales ME, Dine D, Bakken S, Albert PJ, Weng C. Automatic generation of investigator bibliographies for institutional research networking systems. Journal of Biomedical Informatics 2014;51:8–14. Available from URL: http://dx.doi.org/10.1016/j.jbi.2014.03.013
+## Johnson SB, Bales ME, Dine D, Bakken S, Albert PJ, Weng C. Automatic generation of investigator bibliographies for institutional research networking systems. Journal of Biomedical Informatics 2014;51:8–14. Available from URL: [http://dx.doi.org/10.1016/j.jbi.2014.03.013](http://dx.doi.org/10.1016/j.jbi.2014.03.013)
 
 
 
