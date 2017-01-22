@@ -29,10 +29,12 @@ ReCiter is an open source application stack. Currently, institutions wishing to 
 * ReCiter stores data about researchers and publications in **MongoDB**.
 * Its main computation logic is written in **Java**.
 * It employs the **Spring Framework**, a Java-based application framework designed to manage RESTful web services and server requests.
+
 ## What data sources are used by ReCiter for computation?
 * **Institution-specific identity data** including emails, names, known relationships, grant IDs, departmental affiliations, etc.
 * **PubMed** search engine, which primarily accesses the **Medline** database
 * **Scopus** (optional), a bibliographic database used to harvest affiliations.
+
 ## How important is it to use Scopus?
 Use of Scopus, which depends on a standard license, is optional but helpful. In one experiment, we found that using Scopus data improved algorithm recall by approximately 5% and precision by 0.2%, when compared against using PubMed data alone.
 Using Scopus data tends to be more useful in cases where affiliation data is not present in the PubMed record or the full name of authors isn't indexed. This is more common in older papers. For that reason, Scopus may offer less of an advantage for more recently published papers.
