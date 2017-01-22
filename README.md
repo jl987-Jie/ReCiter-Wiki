@@ -1,5 +1,6 @@
 ## What is ReCiter?
 ReCiter is an algorithm and web service for making highly accurate assertions about author identity in publication metadata. It is designed with institutions in mind so that they can maintain author publication lists accurate and up-to-date for thousands of people. ReCiter is optimized for disambiguating authorship in PubMed and, optionally, Scopus.
+
 ## Would ReCiter be useful at my institution?
 ReCiter rapidly and accurately identifies articles by specific authors, including those at previous affiliations. It does this by leveraging institutionally maintained identity data (e.g., departments, relationships, email addresses, year of degree, etc.). As you can read about it in the [algorithm documentation](Algorithm), ReCiter is designed to mimic well-informed human judgment. For example:
 * Dr. Y is more likely to have written this article. It lists his department in the author affiliation field.
