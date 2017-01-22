@@ -19,4 +19,5 @@
     * [Searching PubMed article data](searching-pubmed-article-data.md)
     * [Identity metadata](identity-metadata.md)
     * [Importing MeSH terms](importing-mesh-terms.md)
+    * [Importing PubMed article data](importing-pubmed-article-data.md)
 
