@@ -1,6 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* User Guide
-    * [Installation and Administration](installation.md)
+* [Installation and Administration](installation.md)
 
